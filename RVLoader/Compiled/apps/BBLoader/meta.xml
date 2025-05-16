@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<app version="1">
+	<name>BBLoader</name>
+	<coder>Aurelio</coder>
+	<version>1.2</version>
+	<release_date>20201117000000</release_date>
+	<short_description>Games loader for Wii portables</short_description>
+	<long_description>Visit bitbuilt.net/forums</long_description>
+	<no_ios_reload/>
+	<ahb_access/>
+</app>
